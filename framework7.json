@@ -1,0 +1,18 @@
+{
+  "cwd": "/app/mobile-vue",
+  "type": [
+    "pwa"
+  ],
+  "name": "Mobile-Vue",
+  "framework": "vue",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
